@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_AESDCHAR
+	bool "aesdchar"
+	help
+	  Includes the aesdchar custom driver we wrote in asn3-and-later repo

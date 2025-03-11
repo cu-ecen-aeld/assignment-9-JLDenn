@@ -1,1 +1,2 @@
 /etc/init.d/S98lddmodules f 755 0 0 - - - - -
+/etc/init.d/S97aesdcharmodule f 755 0 0 - - - - -
